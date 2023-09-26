@@ -1,5 +1,6 @@
 
-# AC1 - Parte 1 - Calculadora
+# AC1 - Parte 2 - Guia de Sorocaba
+
 
 Atividade entregue como composição de nota da AC1 do curso de ADS, Disciplina de programação para dispositivos móveis - 5º semestre 
 
